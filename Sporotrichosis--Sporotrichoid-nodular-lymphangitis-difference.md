@@ -25,5 +25,5 @@ So, remember: Sporotrichosis is the fungal infection; the sporotrichoid pattern 
 Image of Sporotrichoid nodular lymphangitis 
 
 
-!sporotrichosis.jpg](https://files.catbox.moe/odvsqb.jpg)
+![sporotrichosis.jpg](https://files.catbox.moe/odvsqb.jpg)
 Image of Sporotrichosis 
