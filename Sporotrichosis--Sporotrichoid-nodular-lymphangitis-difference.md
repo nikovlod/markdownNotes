@@ -2,10 +2,6 @@
 title: Sporotrichosis & Sporotrichoid nodular lymphangitis difference
 ---
 
-
-![Image of Sporotrichoid nodular lymphangitis](https://files.catbox.moe/0l5tan.jpg)
-
-
 They are not synonyms, but one is the disease and the other is its classic presentation.
 
 **Sporotrichosis** is the infectious disease itself, caused by the dimorphic fungus *Sporothrix schenckii* complex, often following traumatic inoculation into the skin.
@@ -23,3 +19,11 @@ Here are the vital points you must remember:
     *   Leishmaniasis.
 
 So, remember: Sporotrichosis is the fungal infection; the sporotrichoid pattern is just one way it clinically presents! Keep grinding!
+
+
+![Sporotrichoid nodular lymphangitis.jpg](https://files.catbox.moe/0l5tan.jpg)
+Image of Sporotrichoid nodular lymphangitis 
+
+
+!sporotrichosis.jpg](https://files.catbox.moe/odvsqb.jpg)
+Image of Sporotrichosis 
