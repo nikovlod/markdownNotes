@@ -34,3 +34,5 @@ title: CMCH outdoor schedule
 
 ---
 **** হৃদরোগ বহিঃ বিভাগের টিকিট ন্যায্য মূল্যের ঔষধের দোকানের পাশ থেকে সংগ্রহ করতে হবে।
+
+![CMCH outdoor schedule](https://files.catbox.moe/ydbejz.jpg)
