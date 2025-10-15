@@ -64,3 +64,5 @@ title: USG, CT scan, MRI and Endoscopy
 | ২৭ | ই আর সি পি (পিটিসি) | ১৫০০/- |
 | ২৮ | ল্যাপারোস্কপি | ৫০০/- |
 | ২৯ | ব্রঙ্কোস্কপি | ২০০০/- |
+
+![USG, CT SCAN, MRI, Endoscopy,CMCH](https://files.catbox.moe/3no3kb.jpg)
