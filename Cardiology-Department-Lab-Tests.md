@@ -2,8 +2,6 @@
 title: Cardiology Department Lab Tests
 ---
 
-# Department of Cardiology
-
 ## হৃদরোগ টেস্টের নাম ও মূল্য তালিকা
 | ক্রম নং | সেবারখাত | টাকা |
 |---|---|---|
