@@ -33,3 +33,6 @@ title: Cardiology Lab Tests
 |---|---|---|
 | ১ | সিটি কর্পোরেশন | ৩০০/- |
 | ৭ | এ্যাম্বুলেন্স ভাড়া (প্রতি কি.মি.) | ১০/- হারে |
+
+
+![Image of cardiology Lab Tests, cmch](https://files.catbox.moe/lxfknh.jpg)
