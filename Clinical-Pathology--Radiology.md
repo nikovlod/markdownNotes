@@ -58,3 +58,5 @@ title: Clinical Pathology & Radiology
 | ১১ | কম্পিউটেড রেডিওগ্রাফি (সিআর) (১২”x১৫”) | = ২৫০/- |
 | ১২ | কম্পিউটেড রেডিওগ্রাফি (সিআর) (১০”x১২”) | = ২৫০/- |
 | ১৩ | কম্পিউটেড রেডিওগ্রাফি (সিআর) (৮”x১০”) | = ২৫০/- |
+
+![Clinical Pathology & Radiology, CMCH](https://files.catbox.moe/ejw334.jpg)
