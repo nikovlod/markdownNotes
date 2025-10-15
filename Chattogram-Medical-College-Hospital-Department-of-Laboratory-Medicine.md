@@ -41,3 +41,5 @@ title: Chattogram Medical College Hospital Department of Laboratory Medicine
 | 33 | Stool R/E | 20 |
 | 34 | S. Albumin | 150 |
 | 35 | Dope Test | 900 |
+
+![Image of tests department of laboratory medicine, cmch](https://files.catbox.moe/0ulq0u.jpg)
