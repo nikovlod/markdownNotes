@@ -120,3 +120,5 @@ title: Institute of Nuclear Medicine & Allied Sciences Lab Tests
 | ৭৬ | SPECT-CT Whole body bone scan | ৩,০০০/- |
 | ৭৭ | SPECT-CT Parathyroid | ৪,০০০/- |
 | ৭৮ | BMD (Bone Mineral Density) Study | ১,৫০০/- |
+
+![Institute of Nuclear Medicine & Allied,CMCH](https://files.catbox.moe/x5xbvk.jpg)
